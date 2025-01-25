@@ -1,4 +1,4 @@
-## ⚔️ GitHub Stats
+## what's the next step in the operation
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uncommonchoi&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues)](https://github.com/uncommonchoi)
 
