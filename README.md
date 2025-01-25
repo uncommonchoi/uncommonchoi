@@ -1,6 +1,4 @@
-# Iron Fist Alexander
-
-### I am the great jar warrior, Iron Fist Alexander! Lend me strength, O warriors within! Let us become one champion, together!
+#### I am the great jar warrior, Iron Fist Alexander! Lend me strength, O warriors within! Let us become one champion, together!
 
 > *"As I suspected... Victory... was impossible. This vessel... was found lacking..."*
 
