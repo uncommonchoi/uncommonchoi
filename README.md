@@ -47,7 +47,7 @@ I strive to:
 
 > *"To become a warrior is to endure. To endure is to achieve greatness."*
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uncommonchoi&show_icons=true&theme=dark)](https://github.com/uncommonchoi)
 
 ---
 
