@@ -1,12 +1,8 @@
-# Warrior Jar Alexander
+# Iron Fist Alexander
 
-### Champion of the Lands Between
-
-> *"After winning the duel (日本語)"*
+### I am the great jar warrior, Iron Fist Alexander! Lend me strength, O warriors within! Let us become one champion, together!
 
 > *"As I suspected... Victory... was impossible. This vessel... was found lacking..."*
-
-## 🛡️ A Vessel of Valor
 
 > *"My thanks, I knew you were the stuff of champions. It was a marvelous battle."*
 
