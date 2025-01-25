@@ -1,4 +1,10 @@
-#### I am the great jar warrior, Iron Fist Alexander! Lend me strength, O warriors within! Let us become one champion, together!
+## ⚔️ GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uncommonchoi&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues)](https://github.com/uncommonchoi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonchoi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/uncommonchoi)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uncommonchoi&theme=tokyonight&hide_border=true)](https://github.com/uncommonchoi)
 
 > *"As I suspected... Victory... was impossible. This vessel... was found lacking..."*
 
